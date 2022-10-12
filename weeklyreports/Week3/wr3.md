@@ -68,7 +68,6 @@ Course: CIS 106
    - !$:p -> print out the word that !$ would substitute
    - !* -> the previous command except for the last word
    - !*:p - print out what !* would substitute
-   
 
 ## Managing Software
 1. Command for updating ubuntu
