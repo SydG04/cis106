@@ -5,7 +5,7 @@ Class: CIS 106
 
 # Deliverable 1
 
-> This is the tutorial we will follow is this [one](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
+> The is the tutorial we will follow is this [one](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
 ## Concepts I do not understand
 
