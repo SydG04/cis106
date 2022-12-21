@@ -17,7 +17,7 @@ I had to create a separate vm (Ubuntu_22.04). In there, I created my username (w
 ![2.6](Deliverable_2.6.png)
 ![2.13](Deliverable_2.13.png)
 ![2.14](Deliverable_2.14.png)
-In the first image, I have successfully installed Apache with the command: `sudo apt intall apache2 -y`. In the second and third image, you can see that Apache is up and running. In the last image, I took a snapshot of my vm to save my progress of installing Apache.
+In the first image, I have successfully installed Apache with the command: `sudo apt install apache2 -y`. In the second and third image, you can see that Apache is up and running. In the last image, I took a snapshot of my vm to save my progress of installing Apache.
 
 ## Video 3
 ![2.8](Deliverable_2.8.png)
