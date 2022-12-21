@@ -9,7 +9,7 @@ CIS106
 ![2.3](Deliverable_2.3.png)
 ![2.1](Deliverable_2.1.png)
 ![2.2](Deliverable_2.2.png)
-I had to create a seperate vm (Ubuntu_22.04). In there, I created my username (webmaster) and hostname (webserver). The first image shows the specs of the new vm.
+I had to create a separate vm (Ubuntu_22.04). In there, I created my username (webmaster) and hostname (webserver). The first image shows the specs of the new vm.
 
 ## Video 2
 ![2.4](Deliverable_2.4.png)
