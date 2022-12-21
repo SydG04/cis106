@@ -36,4 +36,3 @@ I followed the final steps to host my website on Ubuntu. I enabled the virtual h
 ![2.15](Deliverable_2.15.png)
 As a web dev major, I decided to take it upon myself to mess with HTML and CSS. The site may not be perfect, but I do like the outcome. Unfortunately, I couldn't get the image to show despite curling the image in my Ubuntu server. Either way, I still like how it turned out and the last image will show what the site would have looked like with the image. 
 
-My website link "192.168.1.125"
